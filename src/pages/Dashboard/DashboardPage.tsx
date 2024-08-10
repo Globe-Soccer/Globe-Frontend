@@ -18,7 +18,7 @@ const DashboardPage = () => {
       style={{
         backgroundImage: `url(${wallpaper})`,
         backgroundSize: "cover",
-        backgroundPosition: "center",
+        backgroundPosition: "center", 
         // height: "100vh",
       }}
     >
